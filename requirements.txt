@@ -214,7 +214,7 @@ pikepdf==8.10.1
 Pillow==10.1.0
 pinecone-client==2.2.4
 # Editable install with no version control (pirate_speak==0.0.1)
--e /Users/gregorykamradt/Desktop/gk/Projects/LangChain/LangServ/my-app/packages/pirate_speak
+# -e /Users/gregorykamradt/Desktop/gk/Projects/LangChain/LangServ/my-app/packages/pirate_speak
 platformdirs==3.11.0
 pooch==1.8.0
 portalocker==2.8.2
